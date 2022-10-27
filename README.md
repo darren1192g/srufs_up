@@ -16,6 +16,7 @@
 - The graph below show that there is really not much change from mid-year to end year
 
 https://github.com/darren1192g/srufs_up/blob/8058c697df0e3ad9317241f250dead14d335b55c/june_temp.png
+https://github.com/darren1192g/srufs_up/blob/8058c697df0e3ad9317241f250dead14d335b55c/dec_temp.png
 
 ## Summary
 
