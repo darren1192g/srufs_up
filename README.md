@@ -15,7 +15,7 @@
 
 - The graph below show that there is really not much change from mid-year to end year
 
-
+june_temp.png
 
 ## Summary
 
